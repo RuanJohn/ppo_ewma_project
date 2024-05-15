@@ -2,3 +2,6 @@ torch
 tyro
 tensorboard
 procgen
+gym3==0.3.3
+gym==0.23.1
+gymnasium==0.28.1
